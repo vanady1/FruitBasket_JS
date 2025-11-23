@@ -4,7 +4,6 @@ Interactive p5.js mini-game: drag-and-drop fruits into a basket, with dynamic re
 ## Demo
 ![Gameplay Demo](FruitBasket.gif)
 
-## Demo (Playable)
 
 👉 **Play the interactive version here:**  
 https://editor.p5js.org/vanady/full/Y8Rf_lGLi
